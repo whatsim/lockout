@@ -1,0 +1,10 @@
+{
+  "name": "lockout",
+  "description": "A password generation script.",
+  "version": "0.0.1",
+  "author": "Will Ruby <me@willruby.com>",
+  "private": true,
+  "dependencies": {
+    "copy-paste":"0.0.x"
+  }
+}
